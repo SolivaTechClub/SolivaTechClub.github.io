@@ -1,20 +1,20 @@
 ---
 title: Proyectos
-heading: Nuestro trabajo
+heading: Proyectos
 subtitle: Mira algunos ejemplos de nuestros proyectos.
 ---
 
 <section class="diagonal patterned">
 	<div class="container">
-	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_clients/" class="btn"><strong>&#9998;</strong> Manage Clients</a></p>
+	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_proyectos/" class="btn"><strong>&#9998;</strong> Proyectos</a></p>
 		<ul class="image-grid">
-			{% for client in site.clients %}
+			{% for proyecto in site.proyectos %}
 				<li>
-					<a href="{{ site.baseurl }}{{ client.url }}">
-						<img src="{% include relative-src.html src=client.image_path %}" alt="{{ person.name }}">
+					<a href="{{ site.baseurl }}{{ proyecto.url }}">
+						<img src="{% include relative-src.html src=proyecto.image_path %}" alt="{{ person.name }}">
 						<div class="details">
-							<div class="name">{{ client.name }}</div>
-							<div class="position">{{ client.subtitle }}</div>
+							<div class="name">{{ proyecto.name }}</div>
+							<div class="position">{{ proyecto.subtitle }}</div>
 						</div>
 					</a>
 				</li>
