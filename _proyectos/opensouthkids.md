@@ -5,7 +5,7 @@ external_url: https://www.opensouthcode.org/conferences/opensouthcode2019/progra
 image_path: /images/opensouthkids.jpeg
 ---
 
-En 2019 hemos colarado con las jornadas de tecnologia libre OpenSouthCode. El taller fué dirigido principalmente a publico infantil donde celebraremos el SCRATCH DAY 2019. En esta actividad los niños y niñas se dedican a crear juegos, principalmente basados en las competencias STREAM.
+En 2019 hemos colaborado con las jornadas de tecnología libre OpenSouthCode. El taller fué dirigido principalmente a publico infantil donde celebraremos el SCRATCH DAY 2019. En esta actividad los niños y niñas se dedican a crear juegos, principalmente basados en las competencias STREAM.
 
 ## STREAM
 * Science - Ciencia
