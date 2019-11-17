@@ -1,15 +1,15 @@
 - title: Pages
   links:
-    - name: Home
+    - name: Inicio
       link: /
     - name: Proyectos
       link: /proyectos/
     - name: Blog
       link: /blog/
-    - name: About
-      link: /about/
-    - name: Contact
-      link: /contact/
+    - name: Voluntarios
+      link: /voluntarios/
+    - name: Contacto
+      link: /contacto/
 - title: Social
   links:
     - name: Facebook
