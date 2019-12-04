@@ -2,7 +2,7 @@
 name: OpenSouthKids
 subtitle: Talleres de creación de videojuegos en Scratch
 external_url: https://www.opensouthcode.org/conferences/opensouthcode2019/program/proposals/223
-image_path: /images/opensouthkids.jpeg
+image_path: /images/opensouthkids.jpg
 ---
 
 En 2019 hemos colaborado con las jornadas de tecnología libre OpenSouthCode. El taller fué dirigido principalmente a publico infantil donde celebraremos el SCRATCH DAY 2019. En esta actividad los niños y niñas se dedican a crear juegos, principalmente basados en las competencias STREAM.
