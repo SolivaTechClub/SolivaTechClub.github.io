@@ -5,8 +5,9 @@ subtitle: Conoce a nuestro equipo de voluntarios.
 ---
 
 <section class="diagonal patterned">
+	<center><h2>Únete al equipo de voluntarios<h2></h2></center>
+	<center><iframe width="560" height="315" src="https://www.youtube.com/embed/JuLfLb-NLN8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 	<div class="container">
-	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong>Manage Staff members</a></p>
 		<ul class="image-grid">
 			{% for member in site.staff_members %}
 				<li>{% include staff-member.html member=member %}</li>
