@@ -24,5 +24,6 @@ Para ofrecer una experiencia de calidad como máximo habra 10 ninjas por cada me
 En el caso de tener que abrir una lista de espera se ordenara por fecha de inscripción.
 
 Los ninjas hijos de voluntarios o mentores tendran preferencia sobre el resto.
-
+<div class="embed-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jkru4UNmXNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
