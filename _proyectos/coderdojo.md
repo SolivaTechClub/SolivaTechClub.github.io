@@ -2,7 +2,7 @@
 name: CoderDojo
 subtitle: CoderDojo Málaga @ Soliva Tech Club
 external_url: https://zen.coderdojo.com/dojos/es/malaga/malaga-soliva-tech-club
-image_path: /images/CoderDojo_Thumbnail_Homepage_V2.webp
+image_path: /images/CoderDojo_Thumbnail_Homepage_V2.png
 ---
 
 **Soliva Tech Club** es parte del movimiento **CoderDojo**.
