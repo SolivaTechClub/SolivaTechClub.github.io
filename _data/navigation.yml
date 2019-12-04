@@ -7,3 +7,6 @@ links:
   link: /voluntarios/
 - name: Contacto
   link: /contacto/
+- name: CoderDojo
+  link: /proyectos/coderdojo/
+  highlight: true

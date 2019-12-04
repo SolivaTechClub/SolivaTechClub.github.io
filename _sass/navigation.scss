@@ -60,6 +60,7 @@ nav {
 		transition: 0.2s ease-in-out;
 		display: none;
 		font-size: 1rem;
+		font-weight: bold;
 
 		@media #{$mid-point} {
 			border-bottom: 2px solid rgba(255, 255, 255, 0);
@@ -97,7 +98,7 @@ nav {
 
 	@media #{$mid-point} {
 		a.highlight {
-			border: 1px #ccc solid;
+			border: 2px #fff solid;
 			border-radius: 5px;
 
 			&:hover {
@@ -109,5 +110,6 @@ nav {
 
 	a.active {
 		color: #fff;
+
 	}
 }

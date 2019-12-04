@@ -5,10 +5,14 @@ external_url: https://zen.coderdojo.com/dojos/es/malaga/malaga-soliva-tech-club
 image_path: /images/CoderDojo_Thumbnail_Homepage_V2.webp
 ---
 
-Soliva Tech Club es parte del movimiento CoderDojo.
+**Soliva Tech Club** es parte del movimiento **CoderDojo**.
 
 Habitualmente las sesiones se realizan los miercoles de 17:00 a 19:00 en el CEIP Rectora Adelaida de la Calle.
 
-Las sesiones son totalmente gratuitas. Inscribete en la proxima sesión a traves de este enlace <a href="https://zen.coderdojo.com/dojos/es/malaga/malaga-soliva-tech-club">CoderDojo</a>
+Las sesiones son totalmente gratuitas. Inscríbete en la próxima sesión a través de este enlace <a href="https://zen.coderdojo.com/dojos/es/malaga/malaga-soliva-tech-club">CoderDojo</a>
 
-Estamos en búsqueda activa de mentores voluntarios para el Dojo.
+***Estamos en búsqueda activa de mentores voluntarios para el Dojo.***
+
+*CoderDojo es un movimiento internacional de clubes de codificación gratuitos, abiertos, y a cargo de voluntarios (Dojos) en los que niños y jóvenes de 7 a 17 años (Ninjas) pueden explorar la tecnología digital con el apoyo de otros Ninjas compañeros y mentores voluntarios.*
+
+*La misión de CoderDojo es brindar a los jóvenes de todo el mundo oportunidad de aprender a codificar en un entorno social y seguro.*
